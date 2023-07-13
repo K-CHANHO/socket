@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author chan
+ *
+ */
+module SocketChat {
+}
